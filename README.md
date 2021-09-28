@@ -9,7 +9,7 @@ I also work on Fedora project as L10N translator to make Linux more accessible t
 ---
 ## Where can I find him 🤔? This way!
 -  Twitter: [`@Fipekoji`](https://twitter.com/Fipekoji)
--  Mastodon: [`@felitrix@fosstodon.org`](https://fosstodon.org/@felitrix)
+-  Mastodon / Fosstodon: [`@felitrix@fosstodon.org`](https://fosstodon.org/@felitrix)
 
 ---
 ## Goals 💡
