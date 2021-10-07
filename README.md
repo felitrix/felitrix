@@ -15,16 +15,15 @@ I also work on Fedora project as L10N translator to make Linux more accessible t
 ## Goals 💡
 
 - Finish studying web designer
-- Create my own website
 - Finish studying programming logic
 - Finish studying digital marketing
 
 ---
 ## What am I learning 🌱?
 
-HTML, CSS, JavaScript, and Programming logic.
+HTML, CSS, JavaScript, Programming logic, and wordprees.
 
 ---
-All made with love and coffee Cya 🙏
+All made with love and coffee, Cya 🙏
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
