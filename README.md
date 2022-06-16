@@ -1,29 +1,12 @@
-# Felitrix
+<h1 align="center">Howdy 👋, I'm felitrix</h1>
+<h3 align="center"></h3>
 
-Howdy, I'm a young person in Front-end programming with the principles of making the Internet a healthier place, open and accessible to anyone.
+- 🦦 I'm a young person in Front-end programming with the principles of making the Internet a healthier place, open and accessible to anyone.
+- 🌱 I’m currently learning `HTML` | `CSS` | `JavaScript` | `Programming logic` | `WordPrees`
+- 📫 Discord: `Fipe#0079` | Twitter: [`@Fipekoji`](https://twitter.com/Fipekoji) | Mastodon / Fosstodon: [`@felitrix@fosstodon.org`](https://fosstodon.org/@felitrix) | Site: [`fipe.tech`](https://fipe.tech)
+- 💡 Goals: `Finish studying web designer` | `Finish studying programming logic`
+- 🔭 I’m currently working on my `Site` and `IT projects`
+- ⚡ Fun fact: I'm a `student and i love lontra`
+- 🙏 All made with love and coffee
 
-I'm a Mozilla contributor as part of the Social Support Contributor and also working in the Mozilla Support (SUMO) community with the intention of taking the knowledge I've acquired to everyone who needs help.
-
-I also work on Fedora project as L10N translator to make Linux more accessible to Brazilians. 
-
----
-## Where can I find him 🤔? This way!
--  Twitter: [`@Fipekoji`](https://twitter.com/Fipekoji)
--  Mastodon / Fosstodon: [`@felitrix@fosstodon.org`](https://fosstodon.org/@felitrix)
-
----
-## Goals 💡
-
-- Finish studying web designer
-- Finish studying programming logic
-- Finish studying digital marketing
-
----
-## What am I learning 🌱?
-
-HTML, CSS, JavaScript, Programming logic, and wordprees.
-
----
-All made with love and coffee, Cya 🙏
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)![github](https://user-images.githubusercontent.com/90459705/173967569-067cb3e0-12fe-4ab0-b396-d3517a6008e3.gif)
