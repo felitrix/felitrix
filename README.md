@@ -1,9 +1,9 @@
 <h1 align="center">Howdy 👋, I'm felitrix</h1>
 <h3 align="center"></h3>
 
-- 🦦 I'm a young person in Front-end programming with the principles of making the Internet a healthier place, open and accessible to anyone.
-- 💾 I have knowledge in `HTML` | `CSS` | `JavaScript` | `C++` | `WordPrees`
-- 🌱 I’m currently learning `JavaScript` | `Programming logic` | `Pentest`
+- 🦦 I'm a young person in scientific computing with the principles of making the Internet a healthier place, open and accessible to anyone.
+- 💾 I have knowledge in `HTML` | `CSS` | `WordPrees`
+- 🌱 I’m currently learning `JavaScript` | `Programming logic` | `Python`
 - 📫 Discord: `Fipe#0079` | Twitter: [`@Fipekoji`](https://twitter.com/Fipekoji) | Site: [`fipe.tech`](https://fipe.tech)
 - 💡 Goals: `Finish studying web designer` | `Finish studying programming logic`
 - 🔭 I’m currently working on my `Site` and `IT projects`
