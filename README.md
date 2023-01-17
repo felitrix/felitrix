@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 - 🦦 I'm a young person in Front-end programming with the principles of making the Internet a healthier place, open and accessible to anyone.
-- 💾 I have knowledge in `HTML` | `CSS` | `WordPrees`
+- 💾 I have knowledge in `HTML` | `CSS` | `JavaScript` | `C++` | `WordPrees`
 - 🌱 I’m currently learning `JavaScript` | `Programming logic` | `Pentest`
 - 📫 Discord: `Fipe#0079` | Twitter: [`@Fipekoji`](https://twitter.com/Fipekoji) | Site: [`fipe.tech`](https://fipe.tech)
 - 💡 Goals: `Finish studying web designer` | `Finish studying programming logic`
